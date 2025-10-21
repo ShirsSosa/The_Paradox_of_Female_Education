@@ -112,4 +112,4 @@ The-Paradox-of-Female-Education
 This project is part of a data visualization technical assessment. For questions or collaboration, please open an issue or contact the repository maintainer.
 
 ##  License
-This project is intended for educational and analytical purposes. Data sourced from World Bank Open Data.
+This project is intended for educational and analytical purposes. 
