@@ -6,23 +6,20 @@ An interactive data visualization exploring the paradox where women in Latin Ame
 > **Key Insight**: Women are +10% more educated but -15.5% less employed than men across LAC countries.
 
 ## Live Dashboard
-[View Interactive Dashboard](https://lookerstudio.google.com/report/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx](https://lookerstudio.google.com/reporting/6c2cecad-f08b-4dd2-a129-1707700efd33 )
+[View Interactive Dashboard](https://lookerstudio.google.com/reporting/6c2cecad-f08b-4dd2-a129-1707700efd33)
 
 *Optimized for desktop, tablet, and mobile devices*
 
-## 📈 Project Structure
-The-Paradox-of-Female-Education/
-├── data/
-│ ├── The_Paradox_of_Female_Education_Dashboard.csv # Cleaned dataset for dashboard
-│ └── LAC_Socioeconomic_Data.xlsx data source
-├── code/
-│ └── 01_Data_Cleaning_and_Preparation_DataSet_S.ipynb # Data cleaning & analysis
-├── dashboard/
-│ ├── The_Paradox_of_Female_Education_Dashboard.pdf # Dashboard overview
-│ └── dashboard_link.txt # Live dashboard URL
-└── documentation/
-└── The_Paradox_of_Female_Education_in_Latin_America_presentation.pdf.pdf 
+##  Project Structure
+The-Paradox-of-Female-Education
+<details>
+<summary> Project Structure</summary>
 
+- `data/` - Processed and original datasets
+- `code/` - Python data processing scripts
+- `dashboard/` - Interactive dashboard resources  
+- `documentation/` - Analysis presentation and documentation
+</details>
 
 ## Key Findings
 
@@ -40,7 +37,7 @@ The-Paradox-of-Female-Education/
 - Analysis suggests women's time is invested in invisible labor (care work, domestic responsibilities)
 - Educational investment ≠ economic return due to structural barriers
 
-## 🔧 Methodology
+##  Methodology
 
 ### Data Sources
 - **Primary**: LAC Socioeconomic Data (1995-2024)
@@ -91,7 +88,7 @@ The-Paradox-of-Female-Education/
 - Progressive disclosure of insights
 - Clear visual hierarchy
 
-## 📄 Documentation
+##  Documentation
 
 ### [ View Presentation](https://github.com/ShirsSosa/The_Paradox_of_Female_Education/blob/main/documentation/The_Paradox_of_Female_Education_in_Latin_America_presentation.pdf)
 - Executive summary
